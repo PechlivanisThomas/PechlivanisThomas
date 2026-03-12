@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**PechlivanisThomas/PechlivanisThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Thomas Pechlivanis
 
-Here are some ideas to get you started:
+Mathematics graduate with an interest in data science.  
+I enjoy working on projects that apply statistical modeling and machine learning to real-world data problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+**Telco Customer Churn Prediction**  
+End-to-end machine learning pipeline to predict customer churn, including exploratory data analysis, preprocessing, model training, and evaluation.
+
+Repository:
+https://github.com/PechlivanisThomas/telco-churn-prediction
+
+## Skills
+
+Python • Machine Learning • Data Analysis • Statistical Modeling • SQL
+
+## Tools
+
+Pandas • NumPy • Scikit-learn • Git • Jupyter Notebook
+
+## Contact
+
+email: pechlivanisthomas@gmail.com
+LinkedIn: https://linkedin.com/in/thomas-pechlivanis
