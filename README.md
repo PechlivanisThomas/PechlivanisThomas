@@ -27,12 +27,11 @@ https://github.com/PechlivanisThomas/telco-churn-prediction
 
 ## 📫 Connect with me
 
-<p>
+<p align="left">
 <a href="https://linkedin.com/in/thomas-pechlivanis" target="_blank">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+<img src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin" height="45"/>
 </a>
-
 <a href="mailto:pechlivanisthomas@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+<img src="https://img.icons8.com/color/96/gmail-new.png" alt="gmail" height="45"/>
 </a>
 </p>
