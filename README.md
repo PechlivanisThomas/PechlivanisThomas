@@ -13,14 +13,11 @@ End-to-end machine learning pipeline to predict customer churn, including explor
 Repository:
 https://github.com/PechlivanisThomas/telco-churn-prediction
 
-## Skills
+## Languages and Tools
 
-Python • Machine Learning • Data Analysis • Statistical Modeling • SQL
-
-## Tools
-
-Pandas • NumPy • Scikit-learn • Git • Jupyter Notebook
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
 ## Contact
 
 email: pechlivanisthomas@gmail.com
